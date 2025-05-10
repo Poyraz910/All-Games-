@@ -1,0 +1,35 @@
+oyun python ile Poyraz Emir İpekçi Tarafından geliştirilmiştir.
+
+oynamak için "clicker 1.5.exe" uygulamsını açın
+
+
+Reset Tuşu :
+Puanınız Eğer Seviye atlamak için yeterli
+ise hem sıfırlanır hemde seviye atlarsınız
+seviye atlayınca arkaplan değişir
+
+reset-level tuşu:
+Levelinizi Sıfırlar
+
+kaydet/yükle
+oyunda verilerinizi kaydeder ve yükler (local olarak)
+
++1:
+1 click verir level göre değişir
+
+--- verison 1.5 ---
+
+
+-----------------
+--------- gelişmiş dosyalama
+------ yeni gui
+---- yeni motor
+-- okunabilir/hızlı scriptler
+------------
+
+kullanılan libler:
+----- Tkinter (TK) Grafik Motoru
+-- PyInstaller (PT) Uygulamyı .py yerine .exe yapmaya arayan araç
+
+
+

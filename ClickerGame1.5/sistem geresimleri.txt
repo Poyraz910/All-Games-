@@ -1,0 +1,14 @@
+ Pc İçin
+
+
+net 30+Mb Depolama
+20Mb Ram
+64-bit herhangibi Bir işlemci
+Herhangibi Windows İşletim Sistemi
+
+Telefon İçin
+
+net 50+Mb Depolama
+20Mb Ram
+64-bit Herhangibi İşlemci
+Androiod 10+ (önerilen //minimum android 7)
