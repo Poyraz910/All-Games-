@@ -1,0 +1,30 @@
+ Pc İçin
+
+Minimum
+-------------------------------
+-	Depolama: Minimum 25 MB
+
+-	RAM: Minimum 16 MB
+
+-	İşlemci: 64-bit uyumlu herhangi bir işlemci
+
+-	İşletim Sistemi: Windows (Windows dışındaki işletim sistemleri kabul edilmez)
+önerilen
+-	Depolama: 30+ MB boş alan
+
+-	RAM: 32 MB
+
+-	İşlemci: Herhangi bir 64-bit işlemci
+
+-	İşletim Sistemi: Windows
+---------------------------------
+
+
+
+
+Telefon İçin (destek Kaldırıldı)
+
+net N/A Depolama
+N/A Ram
+64-bit Herhangibi İşlemci
+Androiod 10+ (önerilen //minimum android 7)
