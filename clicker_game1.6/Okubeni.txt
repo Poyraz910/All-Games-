@@ -2,6 +2,8 @@ oyun python ile Poyraz Emir İpekçi Tarafından geliştirilmiştir.
 
 oynamak için "clicker 1.6.exe" uygulamsını açın
 
+UYGULUMA ÇOĞUNLUKLA HTML VE PYTHON KULLNILMIŞTIR 
+%60 HTML % %30 PYTHON %5 CSS %4 LUA %1 RUBY 
 
 !!! UYARI !!!
 ---------
