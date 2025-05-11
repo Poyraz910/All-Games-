@@ -1,0 +1,21 @@
+ Pc İçin
+
+Minimum
+-------------------------------
+-	Depolama: Minimum 25 MB
+
+-	RAM: Minimum 26 MB
+
+-	İşlemci: 64-bit uyumlu herhangi bir işlemci
+
+-	İşletim Sistemi: Windows (Windows dışındaki işletim sistemleri kabul edilmez)
+önerilen
+-	Depolama: 40+ MB boş alan
+
+-	RAM: 30 MB
+
+-	İşlemci: Herhangi bir 64-bit işlemci
+
+-	İşletim Sistemi: Windows
+---------------------------------
+

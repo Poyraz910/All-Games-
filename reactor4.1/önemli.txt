@@ -1,0 +1,2 @@
+eğer save 1 den fazla save istiyorsanzı dist içindeki dosyayı alın onun yerine başka save.json dosyası koyun diğer dosyayıdsa
+sakalyın böylerce iki tane save olmuş olucak ama isimlerini değiştirmeyin.
