@@ -1,0 +1,6 @@
+oyun python ile Poyraz Emir İpekçi Tarafından geliştirilmiştir.
+
+oynamak için "reactor3 " uygulamsını açın
+
+
+
