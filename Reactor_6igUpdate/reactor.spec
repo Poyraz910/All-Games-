@@ -5,7 +5,7 @@ a = Analysis(
     ['reactor.py'],
     pathex=[],
     binaries=[],
-    datas=[('*.json', '.')],
+    datas=[('*save.json', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
